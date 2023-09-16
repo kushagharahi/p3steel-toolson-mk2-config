@@ -1,5 +1,3 @@
 # Klipper config for P3Steel MK2 Toolson Edition
 
-Use ATMega2560 and 115200 Baud for Klipper firmware build
-
-This printer is setup for a RAMPS 1.4 board 👴
+This printer is setup for a BTT SKR 1.4 Turbo board with TMC2209 drivers
